@@ -1,0 +1,6 @@
+#Directories
+temp
+*.log
+
+#Files
+!debug.log
